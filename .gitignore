@@ -1,0 +1,13 @@
+
+/Complejo/build/*
+/Complejo/nbproject/*
+/Complejo/test/*
+/Complejo/build.xml
+/Complejo/manifest.mf
+
+/clock/build/*
+/clock/nbproject/*
+/clock/test/*
+/clock/build.xml
+/clock/manifest.mf
+
